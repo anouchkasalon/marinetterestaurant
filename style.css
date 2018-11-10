@@ -10,6 +10,8 @@ html * {
 	font-family: 'Old Standard TT', serif;
 }
 
+html {overflow-y: scroll;}
+
 header {
 	padding: 10px;
 }
