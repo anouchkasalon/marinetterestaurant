@@ -7,7 +7,7 @@ html * {
 	margin: 0;
 	box-sizing: border-box;
 	/* font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif""sans-serif""serif"; */
-	font-family: 'Old Standard TT', serif;
+	font-family: 'Open Sans Condensed', sans-serif;
 }
 
 html {overflow-y: scroll;}
